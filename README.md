@@ -79,6 +79,9 @@
  - npm i supertest -D
  - npm i @types/supertest -D
 
+- Refresh Token JWT
+  - npm i @fastify/cookie
+
 # App
 
 GymPass style app.
